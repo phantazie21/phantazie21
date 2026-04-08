@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Bluff](https://github.com/phantazie21/bluff)
 
-- 🌱 I’m currently learning **Godot Engine,**
+- 🌱 I’m currently learning **Godot Engine**
 
 - 👨‍💻 All of my public projects are available at [https://github.com/phantazie21](https://github.com/phantazie21)
 
