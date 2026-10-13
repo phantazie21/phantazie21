@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Peter Nervetti</h1>
 <h3 align="center">A digital polyhistor with an interest in music and psychology</h3>
 
-- 🔭 I’m currently working on [Bluff](https://github.com/phantazie21/bluff)
+- 🔭 I’m currently working on my bachelor's thesis (2D multiplayer chess in Node.js)
 
 - 🌱 I’m currently learning **Godot Engine**
 
