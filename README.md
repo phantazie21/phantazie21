@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Peter Nervetti</h1>
-<h3 align="center">A digital polyhistor with an interest in music and psychology</h3>
+<h3 align="center">A CS enthusiast with an interest in music and psychology</h3>
 
 - 🔭 I’m currently working on my bachelor's thesis (2D multiplayer chess in Node.js)
 
-- 🌱 I’m currently learning **Godot Engine**
+- 🌱 I’m currently learning **Unity Engine**
 
 - 👨‍💻 All of my public projects are available at [https://github.com/phantazie21](https://github.com/phantazie21)
 
